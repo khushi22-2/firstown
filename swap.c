@@ -13,7 +13,7 @@ void main()
     a=a+b;
     b=a-b;
     a=a-b;
-    printf("getting values after swapping are a=%d b= %d",a,b);
+    printf("user getting value after swapping are a=%d b= %d",a,b);
 
 
 }
